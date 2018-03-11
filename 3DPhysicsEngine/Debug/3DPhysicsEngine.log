@@ -1,0 +1,32 @@
+﻿  Vector2DMaths.cpp
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(130): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(131): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(158): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(159): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(166): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(168): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(192): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(193): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(199): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(203): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(205): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(231): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(232): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(233): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(237): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(239): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(241): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(266): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(267): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(270): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(272): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(285): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(286): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(289): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(291): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(312): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\sultan's files\3dphysicsengine\3dphysicsengine\vector2dmaths.cpp(307): warning C4715: 'Vector2DMaths::Momentum': not all control paths return a value
+  3DPhysicsEngine.vcxproj -> D:\Sultan's Files\3DPhysicsEngine\Debug\3DPhysicsEngine.exe
